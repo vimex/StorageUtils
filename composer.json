@@ -1,5 +1,5 @@
 {
-    "name": "0lukas/storage-utils",
+    "name": "akeneo/storage-utils",
     "type": "library",
     "description": "Akeneo Storage Utils",
     "keywords": ["Akeneo", "Persistence"],
